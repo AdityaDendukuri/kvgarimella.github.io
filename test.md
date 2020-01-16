@@ -1,5 +1,4 @@
-layout: page
-title: Publications
+
 # h1 Heading Test
 
 More testing
