@@ -48,7 +48,7 @@ author:
 footer-links-active:
   rss: false
   facebook: false
-  email: true
+  email: false
   twitter: false
   google-plus: false
   github: true
@@ -67,7 +67,7 @@ share-links-active:
   twitter: false
   facebook: false
   google: true
-  linkedin: flase
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -97,7 +97,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "China/Shanghai"
+timezone: "America/New_York"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
